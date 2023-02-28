@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12c70179-dfb2-4238-91f4-7918f99d1dd9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="failureBehavior" value="FAST" />
+        <option name="localRepository" value="D:\develop\maven\yygh" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../develop/maven/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2Lz0LKeELiaVhVwx5MkfP4So5zZ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/yygh_parent/service/service_hosp/src/main/java/com/llkj/hosp/utils&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.598351&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3d54114eaa805558204e2154b223be95&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\yygh_parent\service\service_hosp\src\main\java\com\llkj\hosp\utils" />
+      <recent name="D:\code\yygh_parent\common\common_utils\src\main\java\com\llkj\yygh\common" />
+      <recent name="D:\code\yygh_parent\model\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\yygh_parent\common\common_utils\src\main\java" />
+      <recent name="D:\code\yygh_parent\common\common_utils\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.llkj.yygh.common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceCmn8202">
+    <configuration name="ReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pojo.ReadTest" />
+      <module name="service_cmn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pojo.WriteTest" />
+      <module name="service_cmn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pojo.ttest" />
+      <module name="service_cmn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hospital-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.hospital.ManageApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.hospital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCmn8202" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_cmn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.llkj.yydp.ServiceCmn8202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.llkj.yydp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHospMain8201" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_hosp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.llkj.hosp.ServiceHospMain8201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceCmn8202" />
+        <item itemvalue="Spring Boot.ManageApplication" />
+        <item itemvalue="Application.ttest" />
+        <item itemvalue="Application.ReadTest" />
+        <item itemvalue="Application.WriteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12c70179-dfb2-4238-91f4-7918f99d1dd9" name="Changes" comment="" />
+      <created>1676858548298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676858548298</updated>
+      <workItem from="1676858549529" duration="4715000" />
+      <workItem from="1676863599790" duration="208000" />
+      <workItem from="1676863831163" duration="15829000" />
+      <workItem from="1676891067733" duration="484000" />
+      <workItem from="1676898007246" duration="93000" />
+      <workItem from="1676899805279" duration="63000" />
+      <workItem from="1676942050569" duration="1341000" />
+      <workItem from="1676977889329" duration="23000" />
+      <workItem from="1677053758912" duration="1361000" />
+      <workItem from="1677116104908" duration="1371000" />
+      <workItem from="1677201194370" duration="11857000" />
+      <workItem from="1677284825562" duration="16381000" />
+      <workItem from="1677477267136" duration="7623000" />
+      <workItem from="1677546415561" duration="22324000" />
+      <workItem from="1677574745202" duration="2814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile" memberName="filename" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
