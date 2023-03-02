@@ -12,6 +12,9 @@
         <module>common/service_utils</module>
         <module>common/common_utils</module>
         <module>service/service_cmn</module>
+        <module>service_client</module>
+        <module>service_client/service-cmn-client</module>
+        <module>service_gateway</module>
     </modules>
 
 

@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @Configuration
 @EnableTransactionManagement
 @MapperScan("com.llkj.hosp.mapper")
-@ComponentScan(value = "com.llkj.yygh.common")
+@ComponentScan(value = "com.llkj")
 public class HospConfig {
     @Bean
     public MybatisPlusInterceptor mybatisPlusInterceptor() {
